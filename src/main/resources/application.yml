@@ -1,0 +1,5 @@
+security:
+  oauth2:
+    client:
+      client-id: first_client
+      client-secret: noonewilleverguess
